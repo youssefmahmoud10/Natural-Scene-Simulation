@@ -1,0 +1,24 @@
+D:\third year\sem 2 2019\garphics\labs\Graphics Lab6 Model Loading - STDCode\Graphics\obj\Release\Graphics.GraphicsForm.resources
+D:\third year\sem 2 2019\garphics\labs\Graphics Lab6 Model Loading - STDCode\Graphics\obj\Release\Graphics.Properties.Resources.resources
+D:\third year\sem 2 2019\garphics\labs\Graphics Lab6 Model Loading - STDCode\Graphics\obj\Release\Graphics.csproj.GenerateResource.cache
+D:\third year\sem 2 2019\garphics\labs\Graphics Lab6 Model Loading - STDCode\Graphics\obj\Release\Graphics.csproj.CoreCompileInputs.cache
+D:\third year\sem 2 2019\garphics\labs\Graphics Lab6 Model Loading - STDCode\Graphics\obj\Release\Graphics.csprojAssemblyReference.cache
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Graphics.exe.config
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Graphics.exe
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Graphics.pdb
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\AssimpNet.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\GlmNet.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Tao.DevIl.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Tao.FreeGlut.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Tao.Glfw.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Tao.OpenGl.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Tao.Platform.Windows.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\Tao.Sdl.dll
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\GlmNet.pdb
+D:\third year\sem 2 2019\garphics\skybox\Graphics\bin\Release\GlmNet.xml
+D:\third year\sem 2 2019\garphics\skybox\Graphics\obj\Release\Graphics.csprojResolveAssemblyReference.cache
+D:\third year\sem 2 2019\garphics\skybox\Graphics\obj\Release\Graphics.GraphicsForm.resources
+D:\third year\sem 2 2019\garphics\skybox\Graphics\obj\Release\Graphics.Properties.Resources.resources
+D:\third year\sem 2 2019\garphics\skybox\Graphics\obj\Release\Graphics.csproj.GenerateResource.Cache
+D:\third year\sem 2 2019\garphics\skybox\Graphics\obj\Release\Graphics.exe
+D:\third year\sem 2 2019\garphics\skybox\Graphics\obj\Release\Graphics.pdb

@@ -1,0 +1,27 @@
+ #version 330 core
+
+
+layout(location = 0) in vec3 vertexPosition_modelspace;
+layout(location = 1) in vec3 vertexColor;
+layout(location = 2) in vec2 texCoord;
+
+uniform mat4 model;
+uniform mat4 projection;
+uniform mat4 view;
+uniform float tt;
+out vec3 fragColor;
+out vec2 TexCoord;
+
+void main(){
+	
+	vec3 pos = vertexPosition_modelspace;
+	pos.y += sin(pos.x*tt)*5+cos(pos.z*tt)*5;
+	  
+
+	gl_Position =  projection*view*model * vec4(pos,1);
+	//gl_Position = vec4(vertexPosition_modelspace,1);
+	fragColor = vertexColor;
+	TexCoord = texCoord;
+}
+
+
